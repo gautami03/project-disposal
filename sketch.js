@@ -25,7 +25,7 @@ function setup() {
     bin2 = new Bin(720,120,30,160);
     bin3 = new Bin(820,120,180,30);
    
-    trash1= new Trash(200,350,30,30);
+    trash1= new Trash(200,350,20,20);
    
     
     //slingshot = new Slingshot(bird.body,{x:300,y:100});
